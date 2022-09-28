@@ -1,0 +1,10 @@
+C:\Users\Hassan Nasar\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+C:\Users\Hassan Nasar\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+C:\Users\Hassan Nasar\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+C:\Users\Hassan Nasar\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csprojAssemblyReference.cache
+C:\Users\Hassan Nasar\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.frmAddStudent.resources
+C:\Users\Hassan Nasar\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Properties.Resources.resources
+C:\Users\Hassan Nasar\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.GenerateResource.cache
+C:\Users\Hassan Nasar\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Hassan Nasar\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+C:\Users\Hassan Nasar\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
